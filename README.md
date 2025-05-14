@@ -22,10 +22,10 @@ Implementacion de Pasarela de Pagos
 - cambiar estado pos ![cambiar estado pos](https://github.com/user-attachments/assets/afa9bb81-25ca-4b8a-91d5-91640cac176e)
 - cambio contraseñ ![cambio contraseña](https://github.com/user-attachments/assets/c0b21c76-a3aa-4e52-acf8-9b5a29972941)
 - realizar reclamo ![realizar reclamo](https://github.com/user-attachments/assets/89369427-d379-4f0b-bd81-ba17adfa21df)
-- procesar pago![procesar pago](https://github.com/user-attachments/assets/01c853e5-f150-4c85-8f24-990201eee9d9)
 - resumen ventas diarias![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljb8eIYqkpKtD2qlDAqaiTibCBCfCBDQ0QT7auk9oICrB0Pa30000](https://github.com/user-attachments/assets/b98270c6-360b-4bc3-85eb-c0e6e21c01f0)
 - resumen vetnas por periodo![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljb8eIYqkpKtD2qlDAqai3iWl2aWjoinFoTU0wTBauk9oICrB0Ha50000](https://github.com/user-attachments/assets/065014d7-87a1-43fa-a58b-97733b07a355)
-- monto actual vendido ![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljbB8pSyhoNTCBYbDp0bBpKl9JCdNW6dGvEBYSW2AWKm10000](https://github.com/user-attachments/assets/8f8e7ee5-8176-4e96-858e-2f68006a31f9)
+- monto actual vendido ![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljbB8pSyhoNTCBYbDp0bBpKl9JCdNW6dGvE92Kmus0YPDGAy3K0HaFm00-1](https://github.com/user-attachments/assets/7817cea2-d769-481b-a872-44d1eafcd083)
+
 
 
 
