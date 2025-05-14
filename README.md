@@ -1,4 +1,11 @@
 # TallerJava
-Proyecto 
-![image](https://github.com/user-attachments/assets/f65190c1-8a18-4f55-b3bd-c4e9a26e51f0)
-asd
+Proyecto, Taller Java 2025
+Dylan Rodriguez, Diego Pozzi, Matias Rodriguez, Federico Olivera
+Implementacion de Pasarela de Pagos
+# Diseño
+Diagrama de Clases
+Diagrama de Casos de Uso
+Diagramas de Secuencia
+Diagramas de Paquetes
+
+
