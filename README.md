@@ -5,7 +5,6 @@ Implementacion de Pasarela de Pagos
 # Diseño
 - Diagrama de Clases
   Las clases identificadas son
-  - Compra
   - Cliente
   - Tarjeta
   - POS
