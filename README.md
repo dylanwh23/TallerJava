@@ -16,8 +16,8 @@ Implementacion de Pasarela de Pagos
 
   
 - Diagrama de Casos de Uso
-- Alta comercio ![Alta comercio](https://github.com/user-attachments/assets/281425e6-f3ea-4bb3-8f96-f1e89fd6df62)
-- modificar datos comercio ![modificar datos comercio](https://github.com/user-attachments/assets/a0e44147-57a9-4024-9203-ed85ba764b70)
+- Alta comercio ![VP51QiCm44NtSuh1gnII2tXH4a8MfP0OxqBeOceDHI1xZ4Os3QM7wLbwiOu4BWsbrMx4-s--q5OJnJJr0P9FWN5FAkWO9vKQAIJQIy-nyx9ob4INwGw0kYGHTwxt0upcy9qVQKXOxPe7R4WfSg26NaGh94MxlSKMLSkZg3VNjN1v12XQtDpd6FvVn7hucHAN3HctL9POJ6dcLVURB3iA](https://github.com/user-attachments/assets/f2ba778c-7c75-4f03-80ae-e746c5bab451)
+
 - alta pos ![alta pos](https://github.com/user-attachments/assets/74cfd76a-9c71-4d5d-aa3d-eb556c4bd788)
 - cambiar estado pos ![cambiar estado pos](https://github.com/user-attachments/assets/afa9bb81-25ca-4b8a-91d5-91640cac176e)
 - cambio contraseñ ![cambio contraseña](https://github.com/user-attachments/assets/c0b21c76-a3aa-4e52-acf8-9b5a29972941)
