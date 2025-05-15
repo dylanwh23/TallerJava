@@ -28,7 +28,8 @@ Implementacion de Pasarela de Pagos
 - realizar reclamo ![realizar reclamo](https://github.com/user-attachments/assets/89369427-d379-4f0b-bd81-ba17adfa21df)
 - resumen ventas diarias ![XOyn2iCm34Ltdq9aQeTS84C990Sm7Rf_R544YHKifUUl0stfKEYept_lez4SrVTr2Iw-C4qmfSoqcmvKsVQLousBmsP15TWfwSerYPv3G7AjDBs2i3MJ9DbGdBe8G-K5CqVSrJg2KOmXlDlKNzfDVqVQXZpWVC2jtpVienWemzMkFmmXypSvSidjoIS0](https://github.com/user-attachments/assets/b33f1c1f-c65d-479e-b951-1f0f188e5e02)
 
-- resumen vetnas por periodo![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljb8eIYqkpKtD2qlDAqai3iWl2aWjoinFoTU0wTBauk9oICrB0Ha50000](https://github.com/user-attachments/assets/065014d7-87a1-43fa-a58b-97733b07a355)
+- resumen vetnas por periodo ![bO-z2iCm38HtFON8r4Bp0XbA87q0qw6xi4Kns5QGb3v_NVf3XouTJxhxZflDINsh1JnxOLp811FZPZAXicsLsuMRamNHm9eboIvAPOrP3hW-Bti0YYwAo-i3QwVcc5TgZaCW8-L29mvq5HkG34C0UBjnF7QDVnNsldmZvmUePyUE-E0cJEHYvzyqIFmTdhcbllyE](https://github.com/user-attachments/assets/e0d8c8bd-19be-4493-90d6-8f886ddcd993)
+
 - monto actual vendido ![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljbB8pSyhoNTCBYbDp0bBpKl9JCdNW6dGvE92Kmus0YPDGAy3K0HaFm00-1](https://github.com/user-attachments/assets/7817cea2-d769-481b-a872-44d1eafcd083)
 
 
