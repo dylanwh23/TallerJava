@@ -18,7 +18,8 @@ Implementacion de Pasarela de Pagos
 - Diagrama de Casos de Uso
 - Alta comercio ![VP51QiCm44NtSuh1gnII2tXH4a8MfP0OxqBeOceDHI1xZ4Os3QM7wLbwiOu4BWsbrMx4-s--q5OJnJJr0P9FWN5FAkWO9vKQAIJQIy-nyx9ob4INwGw0kYGHTwxt0upcy9qVQKXOxPe7R4WfSg26NaGh94MxlSKMLSkZg3VNjN1v12XQtDpd6FvVn7hucHAN3HctL9POJ6dcLVURB3iA](https://github.com/user-attachments/assets/f2ba778c-7c75-4f03-80ae-e746c5bab451)
 
-- alta pos ![alta pos](https://github.com/user-attachments/assets/74cfd76a-9c71-4d5d-aa3d-eb556c4bd788)
+- alta pos ![TP51QiCm44NtEiNWLGBE1Rme2IMBq8MDkogXYy4Qme3iCTBOf9GUfcVfnJhIeYIqrKx3Vs--x7rIZBgCmIbh87Z49E09bYGDO53i96q66IaEB3NCahREuQ0IuU17djniE0yyuwHG7ReJT9WmKi0EBv8gm0GslOzrxNDFfcBJl9L8lZfNZB1xo0JyNd_oDNXKISPlSmbUKQdeCs1SrXXu](https://github.com/user-attachments/assets/c2bf1e92-a25c-49d8-800b-f43ad6120228)
+
 - cambiar estado pos ![cambiar estado pos](https://github.com/user-attachments/assets/afa9bb81-25ca-4b8a-91d5-91640cac176e)
 - cambio contraseñ ![cambio contraseña](https://github.com/user-attachments/assets/c0b21c76-a3aa-4e52-acf8-9b5a29972941)
 - realizar reclamo ![realizar reclamo](https://github.com/user-attachments/assets/89369427-d379-4f0b-bd81-ba17adfa21df)
