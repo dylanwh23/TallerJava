@@ -16,7 +16,8 @@ Implementacion de Pasarela de Pagos
 
   
 - Diagrama de Casos de Uso
-- Alta comercio ![VP51QiCm44NtSuh1gnII2tXH4a8MfP0OxqBeOceDHI1xZ4Os3QM7wLbwiOu4BWsbrMx4-s--q5OJnJJr0P9FWN5FAkWO9vKQAIJQIy-nyx9ob4INwGw0kYGHTwxt0upcy9qVQKXOxPe7R4WfSg26NaGh94MxlSKMLSkZg3VNjN1v12XQtDpd6FvVn7hucHAN3HctL9POJ6dcLVURB3iA](https://github.com/user-attachments/assets/f2ba778c-7c75-4f03-80ae-e746c5bab451)
+- Alta comercio ![VP5BQWCn38RtEeNmAeNa0bcKX915AJJ3x4heGXsB8F2C1iiJ4aeFqxFqOhKDKnfAwvt4zp-4DvOefgaFa2G5HhSZK_ICa-aQAIJQQS-n4rruIchpTES0g4iQSUjx6M3CBjB9I4D2jsqUi26Zo84QEgav9CEylSLchvP7DSbUrygL4Q3Qukg-oF3V9gM7d2bnJIXuLXMJB3jD53t5HVSR](https://github.com/user-attachments/assets/0c396dd2-4d85-4524-8cb8-4824ab5a5455)
+
 
 - alta pos ![TP51QiCm44NtSuh1gmIS2tXH4aeMeGiBTrL25uCq585i6Otij9GUfcVfnJhIeYIqrKxYlpTVqbuofRoC0RBFWV6U9A9ZN2HsI26JYRAnSUHaVMnnZh8589jZmeCR_GIpujxwcQQCpS6Sq91Gua26Ng8qI89wUXip_UF0glAgUQkHiWMeHjpT5G9_Zp-v5XtbACflImc_KkQgBu1oHQEW](https://github.com/user-attachments/assets/a6c41c88-8746-48e5-831c-c95893aa1350)
 
