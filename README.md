@@ -21,7 +21,8 @@ Implementacion de Pasarela de Pagos
 - alta pos ![TP51QiCm44NtSuh1gmIS2tXH4aeMeGiBTrL25uCq585i6Otij9GUfcVfnJhIeYIqrKxYlpTVqbuofRoC0RBFWV6U9A9ZN2HsI26JYRAnSUHaVMnnZh8589jZmeCR_GIpujxwcQQCpS6Sq91Gua26Ng8qI89wUXip_UF0glAgUQkHiWMeHjpT5G9_Zp-v5XtbACflImc_KkQgBu1oHQEW](https://github.com/user-attachments/assets/a6c41c88-8746-48e5-831c-c95893aa1350)
 
 
-- cambiar estado pos ![cambiar estado pos](https://github.com/user-attachments/assets/afa9bb81-25ca-4b8a-91d5-91640cac176e)
+- cambiar estado pos ![dPB1QeD048Rl-nHJJnQI5mYan0OFKgXYZwM7wUusBAmxugw1jFJTExk6L9EUwaKS__-RZzMT3pY4iRCYc60rxD4JA0sZfmr8xDuD3YLd53NaSqcT7gIXIgsW9nzlRjH7cXBtGg0CD42XEkD4ps0ZJOykG5Oq5JJeST0M6poGpm0zy7GPQ-gNLZFPCEQK8l5HY4I4zKDim3_4sCiSCUYq](https://github.com/user-attachments/assets/6c4c85e2-775b-4aed-b77d-fba44991895a)
+
 - cambio contraseñ ![cambio contraseña](https://github.com/user-attachments/assets/c0b21c76-a3aa-4e52-acf8-9b5a29972941)
 - realizar reclamo ![realizar reclamo](https://github.com/user-attachments/assets/89369427-d379-4f0b-bd81-ba17adfa21df)
 - resumen ventas diarias![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljb8eIYqkpKtD2qlDAqaiTibCBCfCBDQ0QT7auk9oICrB0Pa30000](https://github.com/user-attachments/assets/b98270c6-360b-4bc3-85eb-c0e6e21c01f0)
