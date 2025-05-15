@@ -26,7 +26,8 @@ Implementacion de Pasarela de Pagos
 - cambio contraseñ ![XLBDJiCm3BxdAQoUXjIzm0veK7QOa5ZLA-9W4eCYfN6Lf4C3yL0y0o-6Kz7IJfF8BV7tPplRc32aldKgsUG8AemCXg2Fl06DxRFbYdqA6Edx2rU-foFM6EELKgWJ1wYufQ0jgqvqhBOT-WI5G32GmpkgyPLZ0HYXhfUOaTbGnz6Arcc0vQjIOn7MrqA4Vx9857l4HDb3qCB9Ai9wiTxS](https://github.com/user-attachments/assets/d9ee959b-a54d-490a-a634-56443fbb646c)
 
 - realizar reclamo ![realizar reclamo](https://github.com/user-attachments/assets/89369427-d379-4f0b-bd81-ba17adfa21df)
-- resumen ventas diarias![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljb8eIYqkpKtD2qlDAqaiTibCBCfCBDQ0QT7auk9oICrB0Pa30000](https://github.com/user-attachments/assets/b98270c6-360b-4bc3-85eb-c0e6e21c01f0)
+- resumen ventas diarias ![XOyn2iCm34Ltdq9aQeTS84C990Sm7Rf_R544YHKifUUl0stfKEYept_lez4SrVTr2Iw-C4qmfSoqcmvKsVQLousBmsP15TWfwSerYPv3G7AjDBs2i3MJ9DbGdBe8G-K5CqVSrJg2KOmXlDlKNzfDVqVQXZpWVC2jtpVienWemzMkFmmXypSvSidjoIS0](https://github.com/user-attachments/assets/b33f1c1f-c65d-479e-b951-1f0f188e5e02)
+
 - resumen vetnas por periodo![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljb8eIYqkpKtD2qlDAqai3iWl2aWjoinFoTU0wTBauk9oICrB0Ha50000](https://github.com/user-attachments/assets/065014d7-87a1-43fa-a58b-97733b07a355)
 - monto actual vendido ![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljbB8pSyhoNTCBYbDp0bBpKl9JCdNW6dGvE92Kmus0YPDGAy3K0HaFm00-1](https://github.com/user-attachments/assets/7817cea2-d769-481b-a872-44d1eafcd083)
 
