@@ -23,7 +23,8 @@ Implementacion de Pasarela de Pagos
 
 
 
-- cambiar estado pos ![dPB1QeD048Rl-nHJJnQI5mYan0OFKgXYZwM7wUusBAmxugw1jFJTExk6L9EUwaKS__-RZzMT3pY4iRCYc60rxD4JA0sZfmr8xDuD3YLd53NaSqcT7gIXIgsW9nzlRjH7cXBtGg0CD42XEkD4ps0ZJOykG5Oq5JJeST0M6poGpm0zy7GPQ-gNLZFPCEQK8l5HY4I4zKDim3_4sCiSCUYq](https://github.com/user-attachments/assets/6c4c85e2-775b-4aed-b77d-fba44991895a)
+- cambiar estado pos ![VPB1QiCm38RlVWejfmpI5oXqD9GUIc49sN7ieDdUC3XMi9t2DlRkaztI9LcPRv7rV_fGl0qHVHnxAwA9LaEnmq2WD8o1rY2nVpNezzoagALGIkgrbuOg62WSL0Lkr2SwtzyNGg2CvA5MlN5YOB2HPa0NeQZR0xGOq6kBBRvJA003S7NUrZPFdMQqOSn7RacVGcGYh1vI0lxnIaetp9AN](https://github.com/user-attachments/assets/fe49c917-204c-4d75-8d6c-4bd4a0bd86be)
+
 
 - cambio contraseñ ![XLBDJiCm3BxdAQoUXjIzm0veK7QOa5ZLA-9W4eCYfN6Lf4C3yL0y0o-6Kz7IJfF8BV7tPplRc32aldKgsUG8AemCXg2Fl06DxRFbYdqA6Edx2rU-foFM6EELKgWJ1wYufQ0jgqvqhBOT-WI5G32GmpkgyPLZ0HYXhfUOaTbGnz6Arcc0vQjIOn7MrqA4Vx9857l4HDb3qCB9Ai9wiTxS](https://github.com/user-attachments/assets/d9ee959b-a54d-490a-a634-56443fbb646c)
 
