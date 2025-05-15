@@ -30,7 +30,8 @@ Implementacion de Pasarela de Pagos
 
 - resumen vetnas por periodo ![bO-z2iCm38HtFON8r4Bp0XbA87q0qw6xi4Kns5QGb3v_NVf3XouTJxhxZflDINsh1JnxOLp811FZPZAXicsLsuMRamNHm9eboIvAPOrP3hW-Bti0YYwAo-i3QwVcc5TgZaCW8-L29mvq5HkG34C0UBjnF7QDVnNsldmZvmUePyUE-E0cJEHYvzyqIFmTdhcbllyE](https://github.com/user-attachments/assets/e0d8c8bd-19be-4493-90d6-8f886ddcd993)
 
-- monto actual vendido ![SoWkIImgAStDuU9ApizDBKhEp5VGrRLJ24WiJYnApKbqIGr8JCyljbB8pSyhoNTCBYbDp0bBpKl9JCdNW6dGvE92Kmus0YPDGAy3K0HaFm00-1](https://github.com/user-attachments/assets/7817cea2-d769-481b-a872-44d1eafcd083)
+- monto actual vendido ![XO-n2iCm34HtVON8r0xvWGmb9LqBdheBMnI3RGLBoVTNXROKEdIyuzuTDwjHjwqMi6o5SI4LJ8oRoeHLciavsaRbnYtb98SebNlCSWIWQD9nUHcmUa-EUQLcE0HIwbpeme7keWEIOWW0xpIE9zVuPy8Nyax6JzJJeqEVWWbtAjAlFpma_kPcT_tU0m00](https://github.com/user-attachments/assets/03559a2c-cfa3-43c1-9cc4-4bbc6f9bba41)
+
 
 
 
