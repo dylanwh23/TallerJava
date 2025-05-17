@@ -9,15 +9,15 @@ Implementacion de Pasarela de Pagos
      
     ![image](https://github.com/user-attachments/assets/062bc6ad-67a5-4d1f-b5d2-0ced2f061e58)
 
- - Modulo Compras
+   - Modulo Compras
    
    ![image](https://github.com/user-attachments/assets/f8094008-c47d-4a0e-b267-3e1f640b4df0)
 
- - Modulo Transferencias
+   - Modulo Transferencias
    
    ![image](https://github.com/user-attachments/assets/a5509e7c-731a-4fd9-bdb7-f2a821f4aa21)
 
- - Modulo Monitoreo
+   - Modulo Monitoreo
    
    *No cuenta con clases*
 
