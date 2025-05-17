@@ -4,15 +4,18 @@ Dylan Rodriguez, Diego Pozzi, Matias Rodriguez, Federico Olivera
 Implementacion de Pasarela de Pagos
 # Diseño
 - Diagrama de Clases
-  Las clases identificadas son
-  - Cliente
-  - Tarjeta
-  - POS
-  - Comercio
-  - Banco
-  - Transaccion
-  - Cuenta
-  - ![RP9DQiCm48NtEeNM1L_0b1B80He8T3yUJLC5_O0aPr7JktV6iYsRn2jRxysdfsUTSe5KHkyKF-WWPutEKYWqgLoI3RTUX-Y7H4hzhGuUkLE1ITbGM1uzfRYvFIG4PQ1Ghxy9loYWzKAC3N3vlFAmwJK3sYf61g6DJpkBCuqxvm01dsqjNuAG0HaLffRa1sfU7oMBC7U-ZMKeuoxIoC7N-1](https://github.com/user-attachments/assets/1f642daf-60a2-41c2-b021-9156fad0aeb4)
+ - Modulo Comercio
+   ![image](https://github.com/user-attachments/assets/062bc6ad-67a5-4d1f-b5d2-0ced2f061e58)
+
+ - Modulo Compras
+   ![image](https://github.com/user-attachments/assets/f8094008-c47d-4a0e-b267-3e1f640b4df0)
+
+ - Modulo Transferencias
+   ![image](https://github.com/user-attachments/assets/a5509e7c-731a-4fd9-bdb7-f2a821f4aa21)
+
+ - Modulo Monitoreo
+   *No cuenta con clases*
+
 
   
 - Diagrama de Casos de Uso
