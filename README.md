@@ -4,16 +4,21 @@ Dylan Rodriguez, Diego Pozzi, Matias Rodriguez, Federico Olivera
 Implementacion de Pasarela de Pagos
 # Diseño
 - Diagrama de Clases
- - Modulo Comercio
-   ![image](https://github.com/user-attachments/assets/062bc6ad-67a5-4d1f-b5d2-0ced2f061e58)
+  
+   - Modulo Comercio
+     
+    ![image](https://github.com/user-attachments/assets/062bc6ad-67a5-4d1f-b5d2-0ced2f061e58)
 
  - Modulo Compras
+   
    ![image](https://github.com/user-attachments/assets/f8094008-c47d-4a0e-b267-3e1f640b4df0)
 
  - Modulo Transferencias
+   
    ![image](https://github.com/user-attachments/assets/a5509e7c-731a-4fd9-bdb7-f2a821f4aa21)
 
  - Modulo Monitoreo
+   
    *No cuenta con clases*
 
 
@@ -35,7 +40,7 @@ Implementacion de Pasarela de Pagos
 - realizar reclamo ![realizar reclamo](https://github.com/user-attachments/assets/89369427-d379-4f0b-bd81-ba17adfa21df)
 - resumen ventas diarias ![XOyn2iCm34Ltdq9aQeTS84C990Sm7Rf_R544YHKifUUl0stfKEYept_lez4SrVTr2Iw-C4qmfSoqcmvKsVQLousBmsP15TWfwSerYPv3G7AjDBs2i3MJ9DbGdBe8G-K5CqVSrJg2KOmXlDlKNzfDVqVQXZpWVC2jtpVienWemzMkFmmXypSvSidjoIS0](https://github.com/user-attachments/assets/b33f1c1f-c65d-479e-b951-1f0f188e5e02)
 
-- resumen vetnas por periodo ![bO-z2iCm38HtFON8r4Bp0XbA87q0qw6xi4Kns5QGb3v_NVf3XouTJxhxZflDINsh1JnxOLp811FZPZAXicsLsuMRamNHm9eboIvAPOrP3hW-Bti0YYwAo-i3QwVcc5TgZaCW8-L29mvq5HkG34C0UBjnF7QDVnNsldmZvmUePyUE-E0cJEHYvzyqIFmTdhcbllyE](https://github.com/user-attachments/assets/e0d8c8bd-19be-4493-90d6-8f886ddcd993)
+- resumen ventas por periodo ![bO-z2iCm38HtFON8r4Bp0XbA87q0qw6xi4Kns5QGb3v_NVf3XouTJxhxZflDINsh1JnxOLp811FZPZAXicsLsuMRamNHm9eboIvAPOrP3hW-Bti0YYwAo-i3QwVcc5TgZaCW8-L29mvq5HkG34C0UBjnF7QDVnNsldmZvmUePyUE-E0cJEHYvzyqIFmTdhcbllyE](https://github.com/user-attachments/assets/e0d8c8bd-19be-4493-90d6-8f886ddcd993)
 
 - monto actual vendido ![XO-n2iCm34HtVON8r0xvWGmb9LqBdheBMnI3RGLBoVTNXROKEdIyuzuTDwjHjwqMi6o5SI4LJ8oRoeHLciavsaRbnYtb98SebNlCSWIWQD9nUHcmUa-EUQLcE0HIwbpeme7keWEIOWW0xpIE9zVuPy8Nyax6JzJJeqEVWWbtAjAlFpma_kPcT_tU0m00](https://github.com/user-attachments/assets/03559a2c-cfa3-43c1-9cc4-4bbc6f9bba41)
 
