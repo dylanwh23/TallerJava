@@ -62,6 +62,8 @@ Implementacion de Pasarela de Pagos
   ![XO-n2iCm34HtVON8r0xvWGmb9LqBdheBMnI3RGLBoVTNXROKEdIyuzuTDwjHjwqMi6o5SI4LJ8oRoeHLciavsaRbnYtb98SebNlCSWIWQD9nUHcmUa-EUQLcE0HIwbpeme7keWEIOWW0xpIE9zVuPy8Nyax6JzJJeqEVWWbtAjAlFpma_kPcT_tU0m00](https://github.com/user-attachments/assets/03559a2c-cfa3-43c1-9cc4-4bbc6f9bba41)
 
 
+-recibir Notificacion Transferencia Desde Medio de Pago (datosTransferencia)
+![XL9TJiCm37xFAQmzRHBZ04YWgPruwvG7Bc0ITrYaSPMaN8mZS36SmhI2YdYphE_FNtB81LEPXc0Abq3GOXRm15EMEqZa-9dJIGhtxD2nnAU4CVUKA3h68sLF7NaMYsVPUYoIVm1sng0hac0pewfmHMu0CtJMZ6hDZaUC1JOMCoOAM05vHjXVY0QZgne1MXaeQPmPrhJ6T1Rs3qg0_qEl](https://github.com/user-attachments/assets/eda1561b-69f8-4b02-a90d-f0351ce244ad)
 
 
 
