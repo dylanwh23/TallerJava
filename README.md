@@ -11,7 +11,8 @@ Implementacion de Pasarela de Pagos
 
    - Modulo Compras
    
-   ![image](https://github.com/user-attachments/assets/f8094008-c47d-4a0e-b267-3e1f640b4df0)
+  ![{57047A8C-B0B5-4C60-851C-8F98449D16AD}](https://github.com/user-attachments/assets/c14ef42f-2308-4744-aa4d-7d12eb205ef2)
+
 
    - Modulo Transferencias
    
@@ -77,5 +78,6 @@ Implementacion de Pasarela de Pagos
   
 - Diagramas de Paquetes
   
+![{0C86C21A-F54F-4AB2-8D5B-63859FF3DFC3}](https://github.com/user-attachments/assets/c87e9676-b949-42dd-a860-beb536cef572)
 
 
