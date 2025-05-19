@@ -23,7 +23,7 @@ Implementacion de Pasarela de Pagos
 
 
   
-- Diagrama de Casos de Uso
+- Diagrama de Casos de Uso - Diagramas de Secuencia
   - Alta comercio
     
   ![VP5BQWCn38RtEeNmAeNa0bcKX915AJJ3x4heGXsB8F2C1iiJ4aeFqxFqOhKDKnfAwvt4zp-4DvOefgaFa2G5HhSZK_ICa-aQAIJQQS-n4rruIchpTES0g4iQSUjx6M3CBjB9I4D2jsqUi26Zo84QEgav9CEylSLchvP7DSbUrygL4Q3Qukg-oF3V9gM7d2bnJIXuLXMJB3jD53t5HVSR](https://github.com/user-attachments/assets/0c396dd2-4d85-4524-8cb8-4824ab5a5455)
@@ -70,7 +70,7 @@ Implementacion de Pasarela de Pagos
 
 
   
-- Diagramas de Secuencia
+
   
 - Diagramas de Paquetes
   
