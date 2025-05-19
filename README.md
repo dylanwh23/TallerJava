@@ -66,7 +66,8 @@ Implementacion de Pasarela de Pagos
 ![XL9TJiCm37xFAQmzRHBZ04YWgPruwvG7Bc0ITrYaSPMaN8mZS36SmhI2YdYphE_FNtB81LEPXc0Abq3GOXRm15EMEqZa-9dJIGhtxD2nnAU4CVUKA3h68sLF7NaMYsVPUYoIVm1sng0hac0pewfmHMu0CtJMZ6hDZaUC1JOMCoOAM05vHjXVY0QZgne1MXaeQPmPrhJ6T1Rs3qg0_qEl](https://github.com/user-attachments/assets/eda1561b-69f8-4b02-a90d-f0351ce244ad)
 
 
-
+- consultarDepositos (comercio, rangoFechas)
+![ZP71gW8n34Nt_OhWIk7v0ov4doAuA_v1QAC6QZCq7S6_DnsS0Ls8gr9wxybfkz6AfVQtv2hNHB135OW4lSeAWcJjamNsr8bo5Pq7kL49B7zGC5_aGE6Akd0EGvK2kzUfwmpAWJlC5MOU5Gibz7WHdG4gUF-U6FcdrreUGwnjdHkXi5nR4Rvg7UE7c7dn7IkraLOsH8CQvCmvJlt_npXa](https://github.com/user-attachments/assets/e977a37f-f8f2-4584-a17d-28538dc1c81f)
 
 
 
