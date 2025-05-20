@@ -7,16 +7,19 @@ Implementacion de Pasarela de Pagos
   
    - Modulo Comercio
      
-    ![image](https://github.com/user-attachments/assets/062bc6ad-67a5-4d1f-b5d2-0ced2f061e58)
+    ![image](https://github.com/user-attachments/assets/5a3a3874-a071-4a79-a859-4455eff89e06)
+
 
    - Modulo Compras
    
-  ![{57047A8C-B0B5-4C60-851C-8F98449D16AD}](https://github.com/user-attachments/assets/c14ef42f-2308-4744-aa4d-7d12eb205ef2)
+    ![image](https://github.com/user-attachments/assets/a79c6b3b-1c45-4af1-9dcf-00f11dbba15c)
+
 
 
    - Modulo Transferencias
    
-   ![image](https://github.com/user-attachments/assets/a5509e7c-731a-4fd9-bdb7-f2a821f4aa21)
+     ![image](https://github.com/user-attachments/assets/f8363053-761c-4963-896e-a8e8c456cb4d)
+
 
    - Modulo Monitoreo
    
